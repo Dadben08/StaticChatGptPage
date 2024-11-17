@@ -1,4 +1,4 @@
-.body{
+body{
     background: rgb(50, 50, 50);
     padding-inline: 25px;
 }
@@ -143,8 +143,8 @@
     font-size: xx-large;
 }
 
-.body footer{
-    padding-top: 20%;
+.footer{
+    padding-top: 10%;
     margin-left: 40%;
     color: rgba(240, 248, 255, 0.353);
 
